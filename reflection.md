@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Mary Daniel
+Sudent Email:  mcdaniel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+--- I understand dictionaries, lists, as well as strip and append and all the things that help us read these files and parse out the information we dont want to just get the information we want. I think where I am geeting lost is when i run the co-pilot helps me out and i still have to debugg it becuase it doesnt work I dont often know where to go from there or what dfferent approach to take. I would love if we could do the next assingment possibly together in class or part of it to get started becuase I feel a little lost.
